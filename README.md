@@ -52,3 +52,6 @@ Camera to Animation:
 [Repository](https://github.com/rey-debida/mcanim-to-cam?tab=readme-ov-file)
 
 Custom Glass: https://discord.com/channels/523663022053392405/1285723183542177802/1285723183542177802
+
+
+This is all of the stuff I did feel free to contribute thank you
