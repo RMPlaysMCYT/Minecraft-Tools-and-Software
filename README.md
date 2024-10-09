@@ -1,7 +1,7 @@
 # Minecraft-Tools-and-Software
 This site were I listed some stuff out there to create addons by yourself and this is the one-stop site where you can check some stuff made by other creators
 
-#Software:
+# Software:
 Blockbench: https://blockbench.net/
 
 Bridge: https://https://bridge-core.app/
@@ -14,7 +14,7 @@ NOTE WHEN YOU using VSCOdium, you must download the Minecraft Bedrock essential 
 NODE JS (For JavaScript Addons this is a prerequesite): https://nodejs.org/
 
 
-#Tools:
+# Tools:
 Suitcase: https://github.com/TBroz15/SuitcaseJS
 
 Bedrock Addon Generator: https://github.com/abrightmoore/Bedrock-AddOn-Generator
