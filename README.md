@@ -1,6 +1,7 @@
 # Minecraft-Tools-and-Software
 This site were I listed some stuff out there to create addons by yourself and this is the one-stop site where you can check some stuff made by other creators
 
+
 # Software:
 Blockbench: [Get Here](https://blockbench.net/)
 
@@ -20,13 +21,16 @@ GIMP: [Get Here](https://www.gimp.org/)
 
 GEANY: [Download](https://www.geany.org/)
 
+
 # Tools:
 Suitcase: https://github.com/TBroz15/SuitcaseJS
 
 Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
 
 Bedrock Addon Generator: https://github.com/abrightmoore/Bedrock-AddOn-Generator 
-\nTHIS TOOL REQUIRES PYTHON [Get it here](https://www.python.org/)
+
+THIS TOOL REQUIRES PYTHON [Get it here](https://www.python.org/)
+
 
 # Addon Templates to get started:
 
@@ -46,3 +50,5 @@ Camera to Animation:
 [Try It Here](https://rey-debida.github.io/mcanim-to-cam/)
 
 [Repository](https://github.com/rey-debida/mcanim-to-cam?tab=readme-ov-file)
+
+Custom Glass: https://discord.com/channels/523663022053392405/1285723183542177802/1285723183542177802
