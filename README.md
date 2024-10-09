@@ -18,9 +18,15 @@ Paint.net: [Get Here](https://getpaint.net/)
 
 GIMP: [Get Here](https://www.gimp.org/)
 
+GEANY: [Download](https://www.geany.org/)
+
 # Tools:
 Suitcase: https://github.com/TBroz15/SuitcaseJS
-Bedrock Addon Generator: https://github.com/abrightmoore/Bedrock-AddOn-Generator
+
+Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
+
+Bedrock Addon Generator: https://github.com/abrightmoore/Bedrock-AddOn-Generator 
+\nTHIS TOOL REQUIRES PYTHON [Get it here](https://www.python.org/)
 
 # Addon Templates to get started:
 
