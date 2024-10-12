@@ -29,11 +29,11 @@ For Texture Design:
 
 
 # Tools:
-- Suitcase: https://github.com/TBroz15/SuitcaseJS
+- Suitcase: [Click Here](https://github.com/TBroz15/SuitcaseJS)
 
 Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
 
-- Bedrock Addon Generator by TheWorldFoundry: https://github.com/abrightmoore/Bedrock-AddOn-Generator
+- Bedrock Addon Generator by TheWorldFoundry: [Download The Code Here](https://github.com/abrightmoore/Bedrock-AddOn-Generator)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
@@ -50,21 +50,24 @@ Feel Uncomfortable on latest versions, try lower versions:
 Image Editing:
 - GIMP: [Get Here](https://www.gimp.org/)
 - Photoshop: [Get Here for ₱ 1,200.00/month, ohh frick the price 😭😭](https://www.adobe.com/ph_en/products/photoshop.html)
+- Photopea: [Try It](https://www.photopea.com/)
 
 
 # Addon Templates to get started:
 
-Vehicle Addon Template: https://github.com/RMPlaysMCYT/Minecraft-Bedrock-Vehicle-Template/
+Vehicle Addon Template: [Download The Source Code Here](https://github.com/RMPlaysMCYT/Minecraft-Bedrock-Vehicle-Template/)
 
 Custom Chest and Barrel: https://discord.com/channels/523663022053392405/1292325713583669258/1292325763626045523
 
-Custom Pot: https://github.com/MeerkatMC/mkt-custom-pot
+Custom Pot: [Download The Source Code Here](https://github.com/MeerkatMC/mkt-custom-pot)
 
 Custom Woodset: https://discord.com/channels/523663022053392405/1292130876028747828/1292130876028747828
 
-RockWarp: https://github.com/syylaxx/RockWrap/
+RockWarp: [Download The Source Code Here](https://github.com/syylaxx/RockWrap/)
 
-Custom Trident: https://github.com/Alien-Edds/Custom-Trident
+Custom Trident: [Download The Source Code Here](https://github.com/Alien-Edds/Custom-Trident)
+
+Chair Entity: [Download The Source Code Here](https://github.com/Assassin1065/Chair-entity-template/tree/main)
 
 Camera to Animation: 
 
@@ -76,3 +79,10 @@ Custom Glass: https://discord.com/channels/523663022053392405/128572318354217780
 
 
 This is all of the stuff I did feel free to contribute thank you
+
+# Credits to the people:
+- Halo333x
+- AlienEdds
+- XAssassin
+- MeerkatMC
+- Syylax
