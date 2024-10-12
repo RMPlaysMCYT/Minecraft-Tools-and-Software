@@ -1,0 +1,88 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:block": {
+    "description": {
+      "identifier": "wiki:orange_tree_leaves",
+      "menu_category": {
+        "category": "nature",
+        "group": "construction"
+      },
+      "states": {
+        "wiki:decay_tier": [4, 3, 2, 1, 0],
+        "wiki:should_decay": [true, false],
+        "wiki:growth_stage": [0, 1, 2, 3]
+      }
+    },
+    "components": {
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:loot": "loot_tables/blocks/custom_orange_leaves.json",
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 1
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.3
+      },
+      "minecraft:flammable": { 
+				"catch_chance_modifier": 5,
+				"destroy_chance_modifier": 20
+			},
+      "minecraft:custom_components": [
+        "wiki:on_player_destroy",
+        "wiki:random_tick",
+        "wiki:leaf_place",
+        "wiki:interact_tree"
+      ],
+      "minecraft:map_color": "#DDDDDD",
+      "minecraft:light_dampening": 0,
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "orange_tree_leaves_0",
+          "render_method": "blend",
+          "ambient_occlusion": false,
+          "face_dimming": false
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('wiki:growth_stage') == 1",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "orange_tree_leaves_1",
+              "render_method": "blend",
+              "ambient_occlusion": false,
+              "face_dimming": false
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('wiki:growth_stage') == 2",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "orange_tree_leaves_2",
+              "render_method": "blend",
+              "ambient_occlusion": false,
+              "face_dimming": false
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('wiki:growth_stage') == 3",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "orange_tree_leaves_3",
+              "render_method": "blend",
+              "ambient_occlusion": false,
+              "face_dimming": false
+            }
+          }
+        }
+      }
+    ]
+  }
+}

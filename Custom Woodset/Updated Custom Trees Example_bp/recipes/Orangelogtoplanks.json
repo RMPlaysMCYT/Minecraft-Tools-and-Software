@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:Orangelogtoplanks"
+		},
+		"tags": [
+            "crafting_table"
+        ],
+		"key": {
+			"#": {
+				"item": "wiki:orange_tree_log"
+			}
+		},
+		"pattern": [
+			"#"
+		],
+		"result": {
+			"item": "wiki:orange_tree_planks",
+			"count": 4
+		}
+	}
+}

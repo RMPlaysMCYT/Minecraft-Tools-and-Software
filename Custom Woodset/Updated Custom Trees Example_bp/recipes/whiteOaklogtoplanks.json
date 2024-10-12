@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:whiteOaklogtoplanks"
+		},
+		"tags": [
+            "crafting_table"
+        ],
+		"key": {
+			"#": {
+				"item": "wiki:white_oak_log"
+			}
+		},
+		"pattern": [
+			"#"
+		],
+		"result": {
+			"item": "wiki:white_oak_planks",
+			"count": 4
+		}
+	}
+}

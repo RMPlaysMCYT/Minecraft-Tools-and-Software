@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:Orangeplankstodoor"
+		},
+		"tags": [
+            "crafting_table"
+        ],
+		"key": {
+			"#": {
+				"item": "wiki:orange_tree_planks"
+			}
+		},
+		"pattern": [
+			" ##",
+			" ##",
+			" ##"
+		],
+		"result": {
+			"item": "wiki:orange_tree_door_item",
+			"count": 3
+		}
+	}
+}

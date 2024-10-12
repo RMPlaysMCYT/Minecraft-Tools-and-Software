@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "wiki:white_oak_door_item",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.door"
+			}
+		},
+		"components": {
+			"minecraft:block_placer": {
+				"block": "wiki:white_oak_door"
+			},
+			"minecraft:icon": "white_oak_door",
+			"minecraft:display_name": {
+				"value": "White Oak Door"
+			}
+		}
+	}
+}

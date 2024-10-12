@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["Bedrock-OSS team, Kaioga, Edds & Indyfficient"]
+  },
+  "header": {
+    "name": "Updated Custom Trees Example",
+    "description": "A pack to demonstrate a mostly full wood set. Tree example from wiki.bedrock.dev, the Slabs, fences, gates and trapdoors made by Kaioga, custom door made by Edds and everything merged and updated by Indyfficient",
+    "uuid": "476127c7-5a24-49df-9a35-93678cef1719",
+    "version": [1, 1, 2],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1178b111-854c-42e0-b351-5022974b07ee",
+      "version": [1, 1, 2]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "77086aa4-58ae-437f-b6b4-d6718112ba71",
+      "entry": "scripts/main.js",
+      "version": [1, 1, 2]
+      }
+  ],
+  "dependencies": [
+    {
+      "uuid": "332980cc-9de7-473a-bab0-5b9054076adf",
+      "version": [1, 1, 2]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.14.0"
+    }
+  ]
+}

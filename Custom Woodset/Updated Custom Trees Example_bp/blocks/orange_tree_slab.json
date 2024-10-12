@@ -1,0 +1,85 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:block": {
+    "description": {
+      "identifier": "wiki:orange_tree_slab",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.slab"
+      },
+      "traits": {
+        "minecraft:placement_position": {
+          "enabled_states": ["minecraft:vertical_half"]
+        }
+      },
+      "states": {
+        "wiki:double": [false, true],
+        "wiki:waterlogged": [false, true]
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('minecraft:vertical_half') == 'bottom' && !q.block_state('wiki:double')",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 8, 16]
+          },
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 8, 16]
+          },
+          "minecraft:light_dampening": 0
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:vertical_half') == 'top' && !q.block_state('wiki:double')",
+        "components": {
+          "minecraft:collision_box": {
+            "origin": [-8, 8, -8],
+            "size": [16, 8, 16]
+          },
+          "minecraft:selection_box": {
+            "origin": [-8, 8, -8],
+            "size": [16, 8, 16]
+          },
+          "minecraft:light_dampening": 0
+        }
+      },
+      {
+        "condition": "q.block_state('wiki:double')",
+        "components": {
+          "minecraft:geometry": "geometry.slab_dual",
+          "minecraft:light_dampening": 15
+        }
+      }
+    ],
+    "components": {
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 1
+      },
+      "minecraft:display_name": "Orange Tree Slab",
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0.3
+      },
+      "minecraft:flammable": { 
+				"catch_chance_modifier": 5,
+				"destroy_chance_modifier": 20
+			},
+      "minecraft:geometry": {
+        "identifier": "geometry.slab",
+        "bone_visibility": {
+          "bottom_slab": "q.block_state('minecraft:vertical_half') == 'bottom'",
+          "top_slab": "q.block_state('minecraft:vertical_half') == 'top'"
+        }
+      },
+      "minecraft:custom_components": ["wiki:slab_interact"],
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "planks_orange_tree",
+          "render_method": "opaque"
+        }
+      }
+    }
+  }
+}

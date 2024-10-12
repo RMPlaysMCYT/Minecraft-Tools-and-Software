@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "wiki:Orangeplankstofence_gate"
+    },
+    "tags": ["crafting_table"],
+    "key": {
+      "A": {
+        "item": "wiki:orange_tree_planks"
+      },
+      "#": {
+        "item": "minecraft:stick"
+      }
+    },
+    "pattern": [
+		"#A#", 
+		"#A#"
+	],
+    "result": {
+      "item": "wiki:orange_tree_fence_gate",
+      "count": 3
+    }
+  }
+}

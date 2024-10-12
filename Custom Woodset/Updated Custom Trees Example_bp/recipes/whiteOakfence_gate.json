@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "wiki:whiteOakplankstofence_gate"
+    },
+    "tags": ["crafting_table"],
+    "key": {
+      "A": {
+        "item": "wiki:white_oak_planks"
+      },
+      "#": {
+        "item": "minecraft:stick"
+      }
+    },
+    "pattern": [
+		"#A#", 
+		"#A#"
+	],
+    "result": {
+      "item": "wiki:white_oak_fence_gate",
+      "count": 3
+    }
+  }
+}

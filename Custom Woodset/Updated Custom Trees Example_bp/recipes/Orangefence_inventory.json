@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:Orangeplankstofence_inventory"
+		},
+		"tags": [
+            "crafting_table"
+        ],
+		"key": {
+			"#": {
+				"item": "wiki:orange_tree_planks"
+			},
+            "A":{
+                "item": "minecraft:stick"
+            }
+		},
+		"pattern": [
+			"#A#",
+			"#A#"
+		],
+		"result": {
+			"item": "wiki:orange_tree_fence_inventory",
+			"count": 3
+		}
+	}
+}

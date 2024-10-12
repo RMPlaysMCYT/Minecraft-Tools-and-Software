@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:whiteOakplankstodoor"
+		},
+		"tags": [
+            "crafting_table"
+        ],
+		"key": {
+			"#": {
+				"item": "wiki:white_oak_planks"
+			}
+		},
+		"pattern": [
+			" ##",
+			" ##",
+			" ##"
+		],
+		"result": {
+			"item": "wiki:white_oak_door_item",
+			"count": 3
+		}
+	}
+}
