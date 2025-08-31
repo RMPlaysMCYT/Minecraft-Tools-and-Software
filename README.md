@@ -32,6 +32,7 @@ For Texture Design:
 - JSON Fixer: [Visit](https://json-fixer-flame.vercel.app/)
 - Image Recolor: [Visit](https://recolour-tool.vercel.app/)
 - Bedrock Texture Library: [Visit](https://coolloong.github.io/bedrock-textures/)
+- Chest UI Editor: [Visit](https://minato.beyondbedrock.org/web-apps/chest-ui-editor/)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
