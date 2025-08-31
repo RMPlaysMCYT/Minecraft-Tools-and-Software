@@ -28,6 +28,10 @@ For Texture Design:
 - TesserPack (From the Creator of SuitcaseJS): [Download/REPO](https://github.com/TBroz15/TesserPack)
 - MCStructure Editor (Bedrock and VSCode Exclusive): [Check it here](https://marketplace.visualstudio.com/items?itemName=jeanmajid.mcstructure-editor) [REPO](https://github.com/jeanmajid/VSCE-mcStructure-editor)
 - Minecraft Bedrock Glyph Viewer: [Download](https://marketplace.visualstudio.com/items?itemName=Nicita3.minecraft-bedrock-glyph-viewer) [REPO](https://marketplace.visualstudio.com/items?itemName=Nicita3.minecraft-bedrock-glyph-viewer)
+- Manifest Generator(Recommended For Resource Pack Creator) : [Visit](https://manifestjson-generator.vercel.app/)
+- JSON Fixer: [Visit](https://json-fixer-flame.vercel.app/)
+- Image Recolor: [Visit](https://recolour-tool.vercel.app/)
+- Bedrock Texture Library: [Visit](https://coolloong.github.io/bedrock-textures/)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
