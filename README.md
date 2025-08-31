@@ -54,7 +54,12 @@ Image Editing:
 - Chair Entity: [Download The Source Code Here](https://github.com/Assassin1065/Chair-entity-template/tree/main)
 - Camera to Animation:  [Try It Here](https://rey-debida.github.io/mcanim-to-cam/) [Repository](https://github.com/rey-debida/mcanim-to-cam?tab=readme-ov-file)
 - Custom Glass: https://discord.com/channels/523663022053392405/1285723183542177802/1285723183542177802
+
+# Add-on Essentials(Most of them are being open source or source available):
 - Dynamic Dialogue: [Download](https://github.com/nperma/DynamicDialogV2)
+- Clearchat [Download](https://github.com/nperma/Clearchat-Addon)
+- Qwo-UI [Download](https://github.com/nperma/Qwo-UI)
+- 
 
 This is all of the stuff I did feel free to contribute thank you
 
