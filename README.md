@@ -62,7 +62,7 @@ Image Editing:
 - Dynamic Dialogue: [Download](https://github.com/nperma/DynamicDialogV2)
 - Clearchat [Download](https://github.com/nperma/Clearchat-Addon)
 - Qwo-UI [Download](https://github.com/nperma/Qwo-UI)
-- 
+- Example Pack Dyanmic Lightning: [Download](https://github.com/Alien-Edds/Example-Pack-Dynamic-Lighting-API) [JavaScript](https://gist.github.com/Alien-Edds/63534df288802686ed14d79a9666858a) [TypeScript](https://gist.github.com/Alien-Edds/0b26fb7982da0c9f82b31bad3fba87ae)
 
 This is all of the stuff I did feel free to contribute thank you
 
