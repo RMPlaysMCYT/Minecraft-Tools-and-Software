@@ -26,7 +26,8 @@ For Texture Design:
 - Textures to Glyph (Good for custom emojis) [Check it Out](https://minato.beyondbedrock.org/web-apps/textures-to-glyph)
 - Minecraft String UI: [Try it](https://gregory4312.github.io/Minecraft-String-Formatter/) [REPO](https://github.com/gregory4312/Minecraft-String-Formatter)
 - TesserPack (From the Creator of SuitcaseJS): [Download/REPO](https://github.com/TBroz15/TesserPack)
-- MCStructure Editor (Bedrock and VSCode Exclusive): [Check it here](https://marketplace.visualstudio.com/items?itemName=jeanmajid.mcstructure-editor)
+- MCStructure Editor (Bedrock and VSCode Exclusive): [Check it here](https://marketplace.visualstudio.com/items?itemName=jeanmajid.mcstructure-editor) [REPO](https://github.com/jeanmajid/VSCE-mcStructure-editor)
+- Minecraft Bedrock Glyph Viewer: [Download](https://marketplace.visualstudio.com/items?itemName=Nicita3.minecraft-bedrock-glyph-viewer) [REPO](https://marketplace.visualstudio.com/items?itemName=Nicita3.minecraft-bedrock-glyph-viewer)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
