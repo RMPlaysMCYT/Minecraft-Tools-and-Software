@@ -6,34 +6,26 @@ This site were I listed some stuff out there to create addons by yourself and th
 
 For Addon Development:
 - Blockbench: [Get Here](https://blockbench.net/)
-
 - Bridge: [Get Here](https://https://bridge-core.app/)
-
 - Visual Studio Code: https://code.visualstudio.com/
-
 - VSCodium: [Get Here](https://vscodium.com/)
 
 NOTE: WHEN YOU using VSCOdium, you must download the Minecraft Bedrock essential tool vsix files online first before you import it 
 
 - NODE JS (For JavaScript Addons this is a prerequesite): https://nodejs.org/
-
 - GEANY: [Download](https://www.geany.org/)
 
 For Texture Design:
-
 - Paint.net: [Get Here](https://getpaint.net/)
-
 - GIMP: [Get Here](https://www.gimp.org/)
-
 - KRITA: [Download](https://krita.org/en/)
 
 
 # Tools:
-- Suitcase: [Click Here](https://github.com/TBroz15/SuitcaseJS)
-
-Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
+- Suitcase: [Click Here](https://github.com/TBroz15/SuitcaseJS) Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
 
 - Bedrock Addon Generator by TheWorldFoundry: [Download The Code Here](https://github.com/abrightmoore/Bedrock-AddOn-Generator)
+- Textures to Glyph (Good for custom emojis) [Check it Out](https://minato.beyondbedrock.org/web-apps/textures-to-glyph)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
@@ -54,29 +46,15 @@ Image Editing:
 
 
 # Addon Templates to get started:
-
-Vehicle Addon Template: [Download The Source Code Here](https://github.com/RMPlaysMCYT/Minecraft-Bedrock-Vehicle-Template/)
-
-Custom Chest and Barrel: https://discord.com/channels/523663022053392405/1292325713583669258/1292325763626045523
-
-Custom Pot: [Download The Source Code Here](https://github.com/MeerkatMC/mkt-custom-pot)
-
-Custom Woodset: https://discord.com/channels/523663022053392405/1292130876028747828/1292130876028747828
-
-RockWarp: [Download The Source Code Here](https://github.com/syylaxx/RockWrap/)
-
-Custom Trident: [Download The Source Code Here](https://github.com/Alien-Edds/Custom-Trident)
-
-Chair Entity: [Download The Source Code Here](https://github.com/Assassin1065/Chair-entity-template/tree/main)
-
-Camera to Animation: 
-
-[Try It Here](https://rey-debida.github.io/mcanim-to-cam/)
-
-[Repository](https://github.com/rey-debida/mcanim-to-cam?tab=readme-ov-file)
-
-Custom Glass: https://discord.com/channels/523663022053392405/1285723183542177802/1285723183542177802
-
+- Vehicle Addon Template: [Download The Source Code Here](https://github.com/RMPlaysMCYT/Minecraft-Bedrock-Vehicle-Template/)
+- Custom Chest and Barrel: https://discord.com/channels/523663022053392405/1292325713583669258/1292325763626045523
+- Custom Pot: [Download The Source Code Here](https://github.com/MeerkatMC/mkt-custom-pot)
+- Custom Woodset: https://discord.com/channels/523663022053392405/1292130876028747828/1292130876028747828
+- RockWarp: [Download The Source Code Here](https://github.com/syylaxx/RockWrap/)
+- Custom Trident: [Download The Source Code Here](https://github.com/Alien-Edds/Custom-Trident)
+- Chair Entity: [Download The Source Code Here](https://github.com/Assassin1065/Chair-entity-template/tree/main)
+- Camera to Animation:  [Try It Here](https://rey-debida.github.io/mcanim-to-cam/) [Repository](https://github.com/rey-debida/mcanim-to-cam?tab=readme-ov-file)
+- Custom Glass: https://discord.com/channels/523663022053392405/1285723183542177802/1285723183542177802
 
 This is all of the stuff I did feel free to contribute thank you
 
