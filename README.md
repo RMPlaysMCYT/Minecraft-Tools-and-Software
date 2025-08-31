@@ -9,9 +9,8 @@ For Addon Development:
 - Bridge: [Get Here](https://https://bridge-core.app/)
 - Visual Studio Code: https://code.visualstudio.com/
 - VSCodium: [Get Here](https://vscodium.com/)
-
 NOTE: WHEN YOU using VSCOdium, you must download the Minecraft Bedrock essential tool vsix files online first before you import it 
-
+- Regolith (Best for those who use VSCode Consistently and feels laggy on using bridge) [Download](https://regolith-docs.readthedocs.io/en/latest/) [REPO](https://github.com/Bedrock-OSS/regolith)
 - NODE JS (For JavaScript Addons this is a prerequesite): https://nodejs.org/
 - GEANY: [Download](https://www.geany.org/)
 
