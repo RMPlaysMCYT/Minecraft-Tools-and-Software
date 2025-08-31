@@ -23,9 +23,9 @@ For Texture Design:
 
 # Tools:
 - Suitcase: [Click Here](https://github.com/TBroz15/SuitcaseJS) Tutorial: [Watch Here](https://www.youtube.com/watch?v=Kaec1YmYWrk)
-
 - Bedrock Addon Generator by TheWorldFoundry: [Download The Code Here](https://github.com/abrightmoore/Bedrock-AddOn-Generator)
 - Textures to Glyph (Good for custom emojis) [Check it Out](https://minato.beyondbedrock.org/web-apps/textures-to-glyph)
+- Minecraft String UI: [Try it](https://gregory4312.github.io/Minecraft-String-Formatter/) [REPO](https://github.com/gregory4312/Minecraft-String-Formatter)
 
 THIS Bedrock Addon Generator REQUIRES:
 - PYTHON [Get it here](https://www.python.org/)
@@ -64,3 +64,5 @@ This is all of the stuff I did feel free to contribute thank you
 - XAssassin
 - MeerkatMC
 - Syylax
+- gregory4312
+- minato
